@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🔗 [Join the HSP Studios Discord](https://discord.gg/qG75UuW4jY)
 <!--
 
 **Here are some ideas to get you started:**
