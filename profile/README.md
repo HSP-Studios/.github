@@ -1,13 +1,3 @@
-## Hi there 👋
+<h1> <p "font-size:200px;"><img align="left" src="https://github.com/HSP-Studios/.github/blob/main/resources/HSP-Studios_Logo.png" alt="" width="100">HSP Studios</p> </h1>
 
-🔗 [Join the HSP Studios Discord](https://discord.gg/qG75UuW4jY)
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<a href="https://discord.gg/qG75UuW4jY"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/> </a>
